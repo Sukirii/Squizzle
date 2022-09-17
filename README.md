@@ -1,5 +1,5 @@
 # Squizzle
-Squizzle is a free 2D platformer game availble for btoh Windows and Android devices
+Squizzle is a free 2D platformer game availble for both Windows and Android devices
 ## Discord Server
 If want, you can join my [discord server](https://discord.gg/MQgTSM4qtm) to stay up to date. Although I stopped working on the game, you can still contribute to new ideas and features, I might resume the development if there's something really interesting.
 ## Why Open Source?
