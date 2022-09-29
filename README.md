@@ -1,7 +1,7 @@
 # About the Game
 Squizzle is a free 2D platformer game availble for both Windows and Android devices
 ## Links
-You can either download the pc version (windows only) on the [GameJolt Page](https://gamejolt.com/games/squizzle/728673) or the Mobile version in the [Play Store](https://play.google.com/store/apps/details?id=com.GhostBandits.Squizzle&gl=DE).
+You can either download the pc version (windows only) on [GameJolt](https://gamejolt.com/games/squizzle/728673) or the Mobile version in the [Play Store](https://play.google.com/store/apps/details?id=com.GhostBandits.Squizzle&gl=DE).
 ## Discord Server
 If want, you can join my [discord server](https://discord.gg/MQgTSM4qtm) to stay up to date. Although I stopped working on the game, you can still contribute to new ideas and features, I might resume the development if there's something really interesting.
 ## Why Open Source?
